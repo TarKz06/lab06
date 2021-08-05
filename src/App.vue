@@ -6,7 +6,7 @@
     <router-link :to="{ name: 'EventList' }">Home</router-link> |
     <router-link :to="{ name: 'About' }">About</router-link>
   </div>
-
+  <h2>Khematat Suphamittanont</h2>
   <!-- new element -->
   <router-view />
 </template>
